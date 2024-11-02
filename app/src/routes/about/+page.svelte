@@ -15,8 +15,4 @@
 </div>
 
 <style>
-	.profile-img {
-		border-radius: 999px;
-		width: 10em;
-	}
 </style>
